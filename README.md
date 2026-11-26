@@ -18,6 +18,6 @@ two common strategies for panel data:
 
 It discusses how the choice of model changes the estimated effect.
 
-## Contents
+## Files
 - `Tesi_finale_pdf.pdf`: the thesis
 - `r code final.R`: the code used for the analysis
