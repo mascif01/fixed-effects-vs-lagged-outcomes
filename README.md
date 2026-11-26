@@ -6,7 +6,7 @@ Bachelor's thesis in Statistics, Economics and Society, Sapienza University of R
 The analysis uses the Survey on Household Income and Wealth (SHIW) data from Bank of Italy.
 
 ## Where to start
-The full text is in [`thesis.pdf`](thesis.pdf). To understand the modelling choices,
+The full text is in [`Tesi_finale_pdf.pdf`](Tesi_finale_pdf.pdf). To understand the modelling choices,
 the assumptions and the results, please read the thesis: this repository only holds
 the supporting code.
 
@@ -19,5 +19,5 @@ two common strategies for panel data:
 It discusses how the choice of model changes the estimated effect.
 
 ## Contents
-- `thesis.pdf`: the thesis
+- `Tesi_finale_pdf.pdf`: the thesis
 - `r code final.R`: the code used for the analysis
